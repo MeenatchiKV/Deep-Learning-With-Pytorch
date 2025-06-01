@@ -2,7 +2,7 @@
 	
 **Goal:** Understand the basic building blocks and train your first classifiers.	
 
-**Day	Topic**
+**Day	Topic**<br>
 1	Introduction to Neural Networks, Perceptron, Activation functions <br>
 2	Python review (NumPy, Pandas, Matplotlib)<br>
 3	Forward and backward propagation<br>
